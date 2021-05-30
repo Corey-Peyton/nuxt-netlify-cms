@@ -7,7 +7,7 @@ export default {
    ** Headers of the page
    */
   head: {
-    title: '<Blog Name>',
+    title: 'Tees.Design LLC',
     meta: [
       {
         charset: 'utf-8'
@@ -19,37 +19,37 @@ export default {
       {
         hid: 'og:url',
         property: 'og:url',
-        content: `https://example.com`
+        content: `https://www.tees.design`
       },
       {
         hid: 'og:title',
         property: 'og:title',
-        content: '<Blog Name>'
+        content: 'Tees.Design LLC - Trending t shirts are created and updated Daily'
       },
       {
         hid: 'description',
         name: 'description',
-        content: '<Blog name> and description'
+        content: 'Tees.Design LLC Store is a unique and growing mens & womens fashion t-shirt design brand, making trending t shirts affordable for everyone'
       },
       {
         hid: 'og:description',
         property: 'og:description',
-        content: '<Blog name> and description'
+        content: 'Tees.Design LLC Store is a unique and growing mens & womens fashion t-shirt design brand, making trending t shirts affordable for everyone'
       },
       {
         hid: 'og:image:alt',
         property: 'og:image:alt',
-        content: '<Blog Name>'
+        content: 'Tees.Design LLC'
       },
       {
         hid: 'og:article:author',
         property: 'og:article:author',
-        content: 'https://github.com/code-tribe'
+        content: 'Tees.Design'
       },
       {
         hid: 'og:site_name',
         property: 'og:site_name',
-        content: '<Blog Name>'
+        content: 'Tees.Design LLC'
       },
       {
         hid: 'og:type',
@@ -64,12 +64,12 @@ export default {
       {
         hid: 'twitter:title',
         name: 'twitter:title',
-        content: '<Blog Name>'
+        content: 'Tees.Design LLC'
       },
       {
         hid: 'twitter:description',
         name: 'twitter:description',
-        content: '<Blog name> and description'
+        content: 'Tees.Design LLC'
       }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
@@ -133,8 +133,8 @@ export default {
    * Manifest
    */
   manifest: {
-    name: '<Blog Name>',
-    short_name: '<Blog Name>',
+    name: 'Tees.Design LLC',
+    short_name: 'Tees.Design LLC',
     lang: 'en'
   },
 
@@ -142,7 +142,7 @@ export default {
    * sitemap
    */
   sitemap: {
-    hostname: 'https://example.com',
+    hostname: 'https://www.tees.design',
     gzip: true,
     exclude: ['/admin/']
   },
