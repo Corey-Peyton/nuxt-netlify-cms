@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    <Container flex>&copy; <a href="https://www.tees.design" target="_blank">Tees.Design LLC</a> {{ new Date().getFullYear() }}</Container>
+    <Container flex>&copy;<a href="https://www.tees.design" target="_blank">Tees.Design LLC</a>{{ new Date().getFullYear() }}</Container>
   </footer>
 </template>
 
