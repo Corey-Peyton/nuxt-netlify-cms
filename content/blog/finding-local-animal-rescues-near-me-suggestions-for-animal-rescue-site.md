@@ -4,7 +4,7 @@ summary: As promised, here are some resources for finding links to animal rescue
   directories. You can look these up on Google, like I did. You can support any
   type of animal and/or breed of animal you like.
 date: 2021-05-30T02:10:48.847Z
-update: ""
+update: 2021-05-29T17:00:00.000Z
 author: SFAnimalRescue
 thumbnail: /images/uploads/dog-shelters-near-me-1-.jpg
 ---
