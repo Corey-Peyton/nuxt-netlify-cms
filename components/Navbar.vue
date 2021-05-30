@@ -10,6 +10,11 @@
             <font-awesome-icon :icon="['fab', 'twitter']" />
           </a>
         </li>
+        <li class="icon">
+          <a href="https://www.facebook.com/TeesDesign-109624987931306" target="_blank" class="nav-link">
+            <font-awesome-icon :icon="['fab', 'facebook']" />
+          </a>
+        </li>
       </ul>
     </div>
   </nav>
