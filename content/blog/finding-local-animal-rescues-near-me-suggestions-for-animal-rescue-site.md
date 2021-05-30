@@ -6,7 +6,7 @@ summary: As promised, here are some resources for finding links to animal rescue
 date: 2021-05-30T02:10:48.847Z
 update: ""
 author: SFAnimalRescue
-thumbnail: https://sfanimalrescue.org/wp-content/uploads/2021/05/dog-shelters-near-me.jpg
+thumbnail: /images/uploads/dog-shelters-near-me-1-.jpg
 ---
 After you’ve opened one, look up your state and any animal rescues in your area. When I searched, I also listed specific breed rescues. Remember that there are a variety of animal rescues and sanctuaries available; in Florida, we even have huge cat shelters, and we’re not talking about the sort that climb into your lap and snuggle. The focus is on the word “BIG.”
 
