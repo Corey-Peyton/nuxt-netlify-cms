@@ -116,6 +116,7 @@ export default {
         icons: [
           'faTwitter',
           'faInstagram',
+          'faFacebook',
           'faGithub',
           'faVuejs',
           'faReact',
