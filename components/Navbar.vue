@@ -2,11 +2,11 @@
   <nav class="navbar" role="navigation">
     <div class="navbar-inner">
       <div class="brand">
-        <nuxt-link to="/" class="nav-link">Blog Name</nuxt-link>
+        <nuxt-link to="/" class="nav-link">Tees.Design LLC</nuxt-link>
       </div>
       <ul class="social-icons">
         <li class="icon">
-          <a href="#" target="_blank" class="nav-link">
+          <a href="https://twitter.com/TeesDesign2" target="_blank" class="nav-link">
             <font-awesome-icon :icon="['fab', 'twitter']" />
           </a>
         </li>
