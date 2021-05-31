@@ -1,4 +1,6 @@
 ---
+type: News
+language: English
 title: FINDING LOCAL ANIMAL RESCUES NEAR ME ? SUGGESTIONS FOR ANIMAL RESCUE SITE
 summary: As promised, here are some resources for finding links to animal rescue
   directories. You can look these up on Google, like I did. You can support any
@@ -6,11 +8,12 @@ summary: As promised, here are some resources for finding links to animal rescue
 date: 2021-05-30T02:10:48.847Z
 update: 2021-05-29T17:00:00.000Z
 author: SFAnimalRescue
+authorlink: https://SFAnimalRescue.org
 thumbnail: /images/uploads/dog-shelters-near-me-1-.jpg
 ---
 After you’ve opened one, look up your state and any animal rescues in your area. When I searched, I also listed specific breed rescues. Remember that there are a variety of animal rescues and sanctuaries available; in Florida, we even have huge cat shelters, and we’re not talking about the sort that climb into your lap and snuggle. The focus is on the word “BIG.”
 
-# Animal Rescues Me ? Tip To Finding
+## Animal Rescues Me ? Tip To Finding
 
 Here are some ideas to get you started, but it’s up to you to become creative and fine-tune your search after that.
 
