@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    <Container flex>&copy; Tees.Design LLC {{ new Date().getFullYear() }}</Container>
+    <Container flex>&copy; Tees.Design LLC {{ new Date().getFullYear() }}</Container>Designer by NewWaveTee
   </footer>
 </template>
 
