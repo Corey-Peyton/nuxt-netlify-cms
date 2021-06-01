@@ -13,10 +13,8 @@ date: 2021-06-01T04:31:16.249Z
 update: 2021-06-01T04:31:16.274Z
 author: Tees.Design
 authorlink: https://www.tees.design/
-thumbnail: https://customcat.com/wp-content/uploads/2021/05/blog-16.png
+thumbnail: /images/uploads/blog-16.png
 ---
-
-
 1. ## Account Registry
 
 Go to Shop, provide the essential business details, and start a free 14-day trial. You can establish your account. Make sure that you are not registered before you are ready to dig in. Make the most of your spare time for two weeks and determine if you choose to maintain or find another platform permanently.
@@ -25,9 +23,9 @@ Go to Shop, provide the essential business details, and start a free 14-day tria
 
 You need not be a designer or you need to utilize Shopify with any coding knowledge. You can need some time to get comfortable enough to start and run if you're fully unfamiliar with the use of online stores or builders of Websites. But Shopify makes it intuitive and straightforward. Select more than 1,200 themes from Shopify. They are not all free, but you can start with lots of possibilities. Inspiration will also inspire you to decide if you are selling or home and garden articles.
 
-![The Shopify Seller's Guide](https://customcat.com/wp-content/uploads/2021/05/blog-14.png "The Shopify Seller's Guide")
+![The Shopify Seller's Guide](/images/uploads/blog-14.png "The Shopify Seller's Guide")
 
-3. ## Changing your shop 
+3. ## Changing your shop
 
 Take a while to tailor your new shop. Name your shop, play with colours, and see the various ways your shop can be adapted. You can also alter HTML, CSS, & Liquid code directly to get extremely customized. You will require extensive coding skills or you will require an expert from Shopify to help you modify the shop as you like.
 
@@ -41,11 +39,11 @@ Will you be ready to sell? Start uploading products by navigating through your d
 
 If you prefer to DIY everything by yourself, you will have to be up-to-date and ready to ship your goods. Or, to make and send your products, you can use CustomCat's shipping and white label services. In fact, Shopify can be easily integrated to make sales easier.
 
-5. ## You want to edit your products 
+5. ## You want to edit your products
 
 To add intriguing descriptions, alter images, or add variants, tap your products. If you wish to sell various sizes, colors or other pricing points, the variant area is helpful. You can also set your inventory to track your remaining merchandise. Shopify can keep track. Recall to check "Preview" and then "Publish" to make sure it all appears correct.
 
-6. ## Your price 
+6. ## Your price
 
 Too low is your price, and customers could think it is too good to be true. You will also market and sell sufficient things to profit in additional hours. Set too high your prices, and you will probably observe slow sales. Get an idea of the price your products will be paid by watching your competition or exploring Amazon for some time.
 
