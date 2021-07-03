@@ -7,7 +7,7 @@ export default {
    ** Headers of the page
    */
   head: {
-    title: 'Tees.Design LLC',
+    title: 'DesignTees Blog',
     meta: [
       {
         charset: 'utf-8'
@@ -19,37 +19,37 @@ export default {
       {
         hid: 'og:url',
         property: 'og:url',
-        content: `https://www.tees.design`
+        content: `https://designtees.netlify.app/`
       },
       {
         hid: 'og:title',
         property: 'og:title',
-        content: 'Tees.Design LLC - Trending t shirts are created and updated Daily'
+        content: 'DesignTees BLog'
       },
       {
         hid: 'description',
         name: 'description',
-        content: 'Tees.Design LLC Store is a unique and growing mens & womens fashion t-shirt design brand, making trending t shirts affordable for everyone'
+        content: 'DesignTees Blog'
       },
       {
         hid: 'og:description',
         property: 'og:description',
-        content: 'Tees.Design LLC Store is a unique and growing mens & womens fashion t-shirt design brand, making trending t shirts affordable for everyone'
+        content: 'DesignTees Blog'
       },
       {
         hid: 'og:image:alt',
         property: 'og:image:alt',
-        content: 'Tees.Design LLC'
+        content: 'DesignTees Blog'
       },
       {
         hid: 'og:article:author',
         property: 'og:article:author',
-        content: 'Tees.Design'
+        content: 'DesignTees Blog'
       },
       {
         hid: 'og:site_name',
         property: 'og:site_name',
-        content: 'Tees.Design LLC'
+        content: 'DesignTees Blog'
       },
       {
         hid: 'og:type',
@@ -64,12 +64,12 @@ export default {
       {
         hid: 'twitter:title',
         name: 'twitter:title',
-        content: 'Tees.Design LLC'
+        content: 'DesignTees Blog'
       },
       {
         hid: 'twitter:description',
         name: 'twitter:description',
-        content: 'Tees.Design LLC'
+        content: 'DesignTees Blog'
       }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
@@ -134,8 +134,8 @@ export default {
    * Manifest
    */
   manifest: {
-    name: 'Tees.Design LLC',
-    short_name: 'Tees.Design LLC',
+    name: 'DesignTees Blog',
+    short_name: 'DesignTees Blog',
     lang: 'en'
   },
 
@@ -143,7 +143,7 @@ export default {
    * sitemap
    */
   sitemap: {
-    hostname: 'https://www.tees.design',
+    hostname: 'https://designtees.netlify.app',
     gzip: true,
     exclude: ['/admin/']
   },
