@@ -1,12 +1,8 @@
 {
-  "name": "netlify-plugin-fetch-feeds",
+  "name": "nuxt-netlify-cms",
   "version": "0.2.3",
   "description": "A Netlify plugin to fetch and cache content from remote feeds including RSS and JSON",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/philhawksworth/netlify-plugin-fetch-feeds"
-  },
   "keywords": [
     "netlify",
     "rss",
@@ -17,7 +13,6 @@
     "plugin",
     "jamstack"
   ],
-  "author": "Phil Hawksworth",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.0.0",
